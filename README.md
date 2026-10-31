@@ -9,8 +9,8 @@ Both run on Apify as pay-per-result Actors, so there are no proxies, captchas or
 
 | Actor | Store page | Price |
 |---|---|---|
-| Google Ads Transparency Center Scraper | https://apify.com/crunchy_galaxy_qcr/google-ads-transparency-scraper | $1.50 / 1,000 ads |
-| AI Brand Visibility Tracker: ChatGPT & Gemini | https://apify.com/crunchy_galaxy_qcr/ai-visibility-tracker | $0.04 / AI answer |
+| Google Ads Transparency & Ad Library Scraper | https://apify.com/crunchy_galaxy_qcr/google-ads-transparency-scraper | $1.50 / 1,000 ads |
+| AI Search Visibility Tracker: ChatGPT & Gemini Brand Mentions | https://apify.com/crunchy_galaxy_qcr/ai-visibility-tracker | $0.04 / AI answer |
 
 New Apify accounts include monthly free credit, which is enough to try both.
 
