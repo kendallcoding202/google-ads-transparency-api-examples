@@ -1,0 +1,9 @@
+{
+  "queries": [
+    "HubSpot",
+    "nike.com"
+  ],
+  "region": "US",
+  "format": "ALL",
+  "maxAdsPerAdvertiser": 50
+}

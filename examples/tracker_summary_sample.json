@@ -1,0 +1,76 @@
+{
+  "brand": "Notion",
+  "generatedAt": "2026-10-31T01:00:17.874Z",
+  "competitors": [
+    "Confluence",
+    "Coda",
+    "ClickUp"
+  ],
+  "engines": [
+    "chatgpt-search",
+    "gemini-knowledge"
+  ],
+  "overall": {
+    "answers": 4,
+    "brand": {
+      "name": "Notion",
+      "isTarget": true,
+      "answers": 4,
+      "mentionedIn": 4,
+      "visibilityRate": 100,
+      "avgRank": 1,
+      "firstPlaceRate": 100,
+      "citationRate": 0,
+      "shareOfVoice": 40
+    },
+    "sentiment": {
+      "positive": 4
+    },
+    "entities": [
+      {
+        "name": "Notion",
+        "isTarget": true,
+        "answers": 4,
+        "mentionedIn": 4,
+        "visibilityRate": 100,
+        "avgRank": 1,
+        "firstPlaceRate": 100,
+        "citationRate": 0,
+        "shareOfVoice": 40
+      },
+      {
+        "name": "Confluence",
+        "isTarget": false,
+        "answers": 4,
+        "mentionedIn": 4,
+        "visibilityRate": 100,
+        "avgRank": 2.25,
+        "firstPlaceRate": 0,
+        "citationRate": 0,
+        "shareOfVoice": 40
+      },
+      {
+        "name": "Coda",
+        "isTarget": false,
+        "answers": 4,
+        "mentionedIn": 2,
+        "visibilityRate": 50,
+        "avgRank": 2.5,
+        "firstPlaceRate": 0,
+        "citationRate": 0,
+        "shareOfVoice": 20
+      },
+      {
+        "name": "ClickUp",
+        "isTarget": false,
+        "answers": 4,
+        "mentionedIn": 0,
+        "visibilityRate": 0,
+        "avgRank": null,
+        "firstPlaceRate": 0,
+        "citationRate": 0,
+        "shareOfVoice": 0
+      }
+    ]
+  }
+}

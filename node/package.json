@@ -1,0 +1,2 @@
+{ "name": "google-ads-transparency-api-examples", "version": "1.0.0", "type": "module", "license": "MIT",
+  "dependencies": { "apify-client": "^2.9.0" } }

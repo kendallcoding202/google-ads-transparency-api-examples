@@ -1,0 +1,17 @@
+{
+  "brand": "Notion | notion.com | notion.so",
+  "competitors": [
+    "Confluence | atlassian.com",
+    "Coda | coda.io",
+    "ClickUp | clickup.com"
+  ],
+  "prompts": [
+    "What is the best wiki and docs tool for a remote startup team?",
+    "Which note-taking app is best for project documentation?"
+  ],
+  "engines": [
+    "chatgpt-search",
+    "gemini-knowledge"
+  ],
+  "trackingName": "notion-weekly"
+}

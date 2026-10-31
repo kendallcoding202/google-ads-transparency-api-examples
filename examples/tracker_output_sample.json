@@ -1,0 +1,131 @@
+[
+  {
+    "prompt": "Which note-taking app is best for project documentation?",
+    "engine": "chatgpt-search",
+    "engineLabel": "ChatGPT (OpenAI + web search)",
+    "sample": 1,
+    "model": "gpt-5.4-mini-2026-03-17",
+    "brand": "Notion",
+    "brandMentioned": true,
+    "brandMentionCount": 3,
+    "brandRank": 1,
+    "brandRankAmongAllBrands": 1,
+    "brandCited": false,
+    "brandInSources": false,
+    "brandSentiment": "positive",
+    "brandDescription": "Described as the best all-around choice for project documentation due to flexible pages, nested databases, and lightweight collaboration.",
+    "brandRecommended": true,
+    "mentionedInOrder": [
+      "Notion",
+      "Confluence"
+    ],
+    "competitors": [
+      {
+        "name": "Confluence",
+        "mentioned": true,
+        "mentionCount": 2,
+        "rank": 2,
+        "cited": false
+      },
+      {
+        "name": "Coda",
+        "mentioned": false,
+        "mentionCount": 0,
+        "rank": null,
+        "cited": false
+      },
+      {
+        "name": "ClickUp",
+        "mentioned": false,
+        "mentionCount": 0,
+        "rank": null,
+        "cited": false
+      }
+    ],
+    "otherBrands": [
+      "Obsidian",
+      "OneNote",
+      "Google Docs",
+      "Jira"
+    ],
+    "citations": [],
+    "citedDomains": [],
+    "searchQueries": [],
+    "answer": "It depends on how your team works, but for **project documentation** the best all-around choice is usually **Notion**.\n\n### Best overall: Notion\nWhy it\u2019s strong for project docs:\n- flexible pages and nested databases\n- easy to organize requirements, meeting notes, decisions, and tasks in one place\n- good for lightweight collaboration\n- templates make setup fast\n\n### Good alternatives\n- **Confluence** \u2014 best if you\u2019re in a larger company and want more formal documentation tied to Jira/Atlassian workflows\n- **Obsidian** \u2014 best for personal or technical docs if you want local files and strong lin\u2026",
+    "answerLength": 1201,
+    "checkedAt": "2026-10-31T01:00:00.265Z"
+  },
+  {
+    "prompt": "What is the best wiki and docs tool for a remote startup team?",
+    "engine": "chatgpt-search",
+    "engineLabel": "ChatGPT (OpenAI + web search)",
+    "sample": 1,
+    "model": "gpt-5.4-mini-2026-03-17",
+    "brand": "Notion",
+    "brandMentioned": true,
+    "brandMentionCount": 4,
+    "brandRank": 1,
+    "brandRankAmongAllBrands": 1,
+    "brandCited": false,
+    "brandInSources": false,
+    "brandSentiment": "positive",
+    "brandDescription": "Recommended as the best all-around wiki/docs tool for most remote startup teams due to flexibility and ease of editing.",
+    "brandRecommended": true,
+    "mentionedInOrder": [
+      "Notion",
+      "Confluence"
+    ],
+    "competitors": [
+      {
+        "name": "Confluence",
+        "mentioned": true,
+        "mentionCount": 3,
+        "rank": 2,
+        "cited": false
+      },
+      {
+        "name": "Coda",
+        "mentioned": false,
+        "mentionCount": 0,
+        "rank": null,
+        "cited": false
+      },
+      {
+        "name": "ClickUp",
+        "mentioned": false,
+        "mentionCount": 0,
+        "rank": null,
+        "cited": false
+      }
+    ],
+    "otherBrands": [
+      "Slab",
+      "GitBook"
+    ],
+    "citations": [
+      {
+        "url": "https://usewhale.io/blog/best-wiki-software/?utm_source=openai",
+        "title": "12 best wiki software tools for teams (compared, 2026)",
+        "domain": "usewhale.io"
+      },
+      {
+        "url": "https://www.gitbook.com/pricing?utm_source=openai",
+        "title": "GitBook pricing & plans | GitBook",
+        "domain": "gitbook.com"
+      }
+    ],
+    "citedDomains": [
+      "usewhale.io",
+      "gitbook.com"
+    ],
+    "searchQueries": [
+      "best wiki and documentation tools for remote startup teams 2026 comparison Notion Confluence Slab GitBook Coda official pricing features",
+      "Notion docs wiki startup team official features pricing",
+      "Confluence documentation team official features pricing",
+      "GitBook docs team official features pricing"
+    ],
+    "answer": "For most **remote startup teams**, the best default pick is usually **Notion**: it\u2019s flexible, easy for non-technical teammates to edit, and can cover docs, wiki pages, lightweight databases, and team coordination in one place. If your team is already in the Atlassian ecosystem or you want more structured, enterprise-style documentation, **Confluence** is often the better fit. If you want a cleaner, more focused internal wiki, **Slab** is worth a look. If your docs are very developer-facing or you want polished external docs, **GitBook** is strong. ([usewhale.io](https://usewhale.io/blog/best-\u2026",
+    "answerLength": 1708,
+    "checkedAt": "2026-10-31T01:00:03.105Z"
+  }
+]

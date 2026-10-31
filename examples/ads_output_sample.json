@@ -1,0 +1,138 @@
+[
+  {
+    "type": "ad",
+    "advertiserId": "AR10072600183532683265",
+    "advertiserName": "Hubspot, Inc.",
+    "creativeId": "CR09696042791326449665",
+    "format": "TEXT",
+    "firstShown": "2025-05-13",
+    "lastShown": "2026-10-31",
+    "daysShown": 502,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/7534916637020977406",
+    "previewUrl": null,
+    "adUrl": "https://adstransparency.google.com/advertiser/AR10072600183532683265/creative/CR09696042791326449665",
+    "query": "HubSpot",
+    "region": "anywhere",
+    "scrapedAt": "2026-10-31T00:59:57.243Z"
+  },
+  {
+    "type": "ad",
+    "advertiserId": "AR10072600183532683265",
+    "advertiserName": "Hubspot, Inc.",
+    "creativeId": "CR03698433429923168257",
+    "format": "VIDEO",
+    "firstShown": "2025-09-11",
+    "lastShown": "2026-10-31",
+    "daysShown": 394,
+    "imageUrl": null,
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7615749964&creativeId=773345556169&uiFeatures=12,54&adGroupId=185955011900&versionId=5&assets=%3DH4sIAAAAAAAAAAFTAKz_CkEKCQjj2aiGngEQBgoJCJjiqrzYAxABCgkItuLdxOUDEAwKCQj7pPGemQoQHQoJCMKKldiGCBAICggI3f-rriYQKRoGCO2LuKF_GgYI74q4oX-mHgaKUwAAAA&sig=ACiVB_xqljx3_SLcVC3Yh7CcfUd9q4CaFA&htmlParentId=fletch-render-1819035017887369016&responseCallback=fletchCallback1819035017887369016",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR10072600183532683265/creative/CR03698433429923168257",
+    "query": "HubSpot",
+    "region": "anywhere",
+    "scrapedAt": "2026-10-31T00:59:57.243Z"
+  },
+  {
+    "type": "ad",
+    "advertiserId": "AR10072600183532683265",
+    "advertiserName": "Hubspot, Inc.",
+    "creativeId": "CR09425175722411950081",
+    "format": "TEXT",
+    "firstShown": "2026-04-14",
+    "lastShown": "2026-10-31",
+    "daysShown": 200,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/9288777807680602701",
+    "previewUrl": null,
+    "adUrl": "https://adstransparency.google.com/advertiser/AR10072600183532683265/creative/CR09425175722411950081",
+    "query": "HubSpot",
+    "region": "anywhere",
+    "scrapedAt": "2026-10-31T00:59:57.243Z"
+  },
+  {
+    "type": "ad",
+    "advertiserId": "AR10072600183532683265",
+    "advertiserName": "Hubspot, Inc.",
+    "creativeId": "CR04275547661500678145",
+    "format": "TEXT",
+    "firstShown": "2026-09-10",
+    "lastShown": "2026-10-31",
+    "daysShown": 52,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/1407519373328142325",
+    "previewUrl": null,
+    "adUrl": "https://adstransparency.google.com/advertiser/AR10072600183532683265/creative/CR04275547661500678145",
+    "query": "HubSpot",
+    "region": "anywhere",
+    "scrapedAt": "2026-10-31T00:59:57.243Z"
+  },
+  {
+    "type": "ad",
+    "advertiserId": "AR10072600183532683265",
+    "advertiserName": "Hubspot, Inc.",
+    "creativeId": "CR13302330936319279105",
+    "format": "TEXT",
+    "firstShown": "2026-01-12",
+    "lastShown": "2026-10-31",
+    "daysShown": 292,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/2016855567804305281",
+    "previewUrl": null,
+    "adUrl": "https://adstransparency.google.com/advertiser/AR10072600183532683265/creative/CR13302330936319279105",
+    "query": "HubSpot",
+    "region": "anywhere",
+    "scrapedAt": "2026-10-31T00:59:57.243Z"
+  },
+  {
+    "type": "advertiserSummary",
+    "query": "nike.com",
+    "advertiserId": "AR16735076323512287233",
+    "advertiserName": "Nike, Inc.",
+    "advertiserCountry": null,
+    "matchQuality": "DOMAIN",
+    "domain": "nike.com",
+    "region": "anywhere",
+    "totalAdsEstimate": {
+      "min": 50000,
+      "max": 60000
+    },
+    "adsScraped": 50,
+    "adsByFormat": {
+      "TEXT": 39,
+      "VIDEO": 3,
+      "IMAGE": 8
+    },
+    "activeLast48h": 50,
+    "newestFirstShown": "2026-10-22",
+    "longestRunning": [
+      {
+        "creativeId": "CR18364954186858102785",
+        "format": "IMAGE",
+        "daysShown": 1819,
+        "adUrl": "https://adstransparency.google.com/advertiser/AR18378488041124659201/creative/CR18364954186858102785"
+      },
+      {
+        "creativeId": "CR00411773839110832129",
+        "format": "TEXT",
+        "daysShown": 1793,
+        "adUrl": "https://adstransparency.google.com/advertiser/AR18378488041124659201/creative/CR00411773839110832129"
+      },
+      {
+        "creativeId": "CR04861808764669394945",
+        "format": "TEXT",
+        "daysShown": 1434,
+        "adUrl": "https://adstransparency.google.com/advertiser/AR01437837420136497153/creative/CR04861808764669394945"
+      },
+      {
+        "creativeId": "CR01095486659304095745",
+        "format": "TEXT",
+        "daysShown": 1383,
+        "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR01095486659304095745"
+      },
+      {
+        "creativeId": "CR16677941370006011905",
+        "format": "TEXT",
+        "daysShown": 1380,
+        "adUrl": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR16677941370006011905"
+      }
+    ],
+    "alternativeAdvertisers": [],
+    "scrapedAt": "2026-10-31T01:00:00.483Z"
+  }
+]
