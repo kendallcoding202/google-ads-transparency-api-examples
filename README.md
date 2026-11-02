@@ -3,14 +3,14 @@
 Copy-paste **Python and Node.js examples** for two jobs that have no official API:
 
 1. **Google Ads Transparency Center API**: pull every Google Search, image and YouTube ad a competitor is running, with first/last shown dates, days running, preview images, per-country details and new-ad alerts. This is a **competitor ads scraper** you can automate.
-2. **AI brand visibility tracker**: see whether **ChatGPT and Gemini mention and recommend your brand** vs competitors, your rank and sentiment, which sites the AI cites, and how your **share of voice in AI answers** changes over time.
+2. **AI brand visibility tracker**: see whether **ChatGPT, Gemini and Perplexity mention and recommend your brand** vs competitors, your rank and sentiment, which sites the AI cites, and how your **share of voice in AI answers** changes over time.
 
 Both run on Apify as pay-per-result Actors, so there are no proxies, captchas or OpenAI keys to manage:
 
 | Actor | Store page | Price |
 |---|---|---|
 | Google Ads Transparency & Ad Library Scraper | https://apify.com/crunchy_galaxy_qcr/google-ads-transparency-scraper | $1.50 / 1,000 ads |
-| AI Search Visibility Tracker: ChatGPT & Gemini Brand Mentions | https://apify.com/crunchy_galaxy_qcr/ai-visibility-tracker | $0.04 / AI answer |
+| AI Search Visibility Tracker: ChatGPT, Gemini & Perplexity | https://apify.com/crunchy_galaxy_qcr/ai-visibility-tracker | $0.04 / AI answer |
 
 New Apify accounts include monthly free credit, which is enough to try both.
 

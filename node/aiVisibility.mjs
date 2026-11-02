@@ -7,6 +7,7 @@ const run = await client.actor('crunchy_galaxy_qcr/ai-visibility-tracker').call(
     brand: 'Notion | notion.com | notion.so',
     competitors: ['Confluence | atlassian.com', 'Coda | coda.io'],
     prompts: (process.env.PROMPTS || 'What is the best wiki and docs tool for a remote startup team?').split('|'),
+    // Options: chatgpt-search, chatgpt-knowledge, gemini-knowledge, perplexity-search
     engines: (process.env.ENGINES || 'chatgpt-search,gemini-knowledge').split(','),
 }, { maxTotalChargeUsd: 1 });
 const { value: summary } = await client.keyValueStore(run.defaultKeyValueStoreId).getRecord('SUMMARY');

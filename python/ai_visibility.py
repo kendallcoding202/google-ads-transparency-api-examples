@@ -1,4 +1,4 @@
-"""Is ChatGPT / Gemini recommending your brand? Track AI share of voice over time.
+"""Is ChatGPT / Gemini / Perplexity recommending your brand? Track AI share of voice over time.
 
 Usage: APIFY_TOKEN=... python ai_visibility.py --brand "Notion | notion.com" \
          --competitor "Confluence | atlassian.com" --competitor "Coda | coda.io" \
@@ -11,7 +11,7 @@ from apify_client import ApifyClient
 p = argparse.ArgumentParser()
 p.add_argument("--brand", required=True); p.add_argument("--competitor", action="append", default=[])
 p.add_argument("--prompt", action="append", default=[]); p.add_argument("--category")
-p.add_argument("--engines", default="chatgpt-search,gemini-knowledge"); p.add_argument("--tracking-name")
+p.add_argument("--engines", default="chatgpt-search,gemini-knowledge", help="comma list; also: chatgpt-knowledge, perplexity-search"); p.add_argument("--tracking-name")
 p.add_argument("--max-charge-usd", type=float, default=1.0)
 a = p.parse_args()
 
